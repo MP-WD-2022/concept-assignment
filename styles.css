@@ -1,0 +1,61 @@
+/*/////////////////////////////////////////////////
+    Table of Contents
+    1. Global Styles
+    2. Typography
+    3. Layout
+        3.1 Reusables
+        3.2 Other
+    4. Areas
+        4.1 Header
+        4.2 Introduction
+        4.3 Projecten
+        4.4 Services
+        4.5 Contactformulier
+        4.6 Footer
+    5. Media Queries
+////////////////////////////////////////////////*/
+
+ /*--------------- 1. Global Styles ----------------- */
+
+/* -------- CSS-reset -------- */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* -------- CSS-reset -------- */
+
+ /*--------------- 2. Typography -------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto&display=swap');
+
+.headings {
+    font-family: 'Merriweather', serif;
+}
+
+.normal {
+    font-family: 'Roboto', sans-serif;
+}
+
+ /*--------------- 3. Layout ------------------------ */
+
+ /*--------------- 3.1 Reusables -------------------- */
+
+ /*--------------- 3.2 Other ------------------------ */
+
+ /*--------------- 4. Areas ------------------------- */
+
+ /*--------------- 4.1 Header ----------------------- */
+
+ /*--------------- 4.2 Introduction ----------------- */
+
+ /*--------------- 4.3 Projecten -------------------- */
+
+ /*--------------- 4.4 Services --------------------- */
+
+ /*--------------- 4.5 Contactformulier ------------- */
+
+ /*--------------- 4.6 Footer ----------------------- */
+
+ /*--------------- 5. Media Queries ----------------- */
+
